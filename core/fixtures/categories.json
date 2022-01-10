@@ -1,0 +1,2261 @@
+[
+{
+  "model": "other.type",
+  "pk": 1,
+  "fields": {
+    "type": "All",
+    "slug": "all",
+    "created_at": "2021-09-10T06:26:06.091Z"
+  }
+},
+{
+  "model": "other.type",
+  "pk": 2,
+  "fields": {
+    "type": "Men",
+    "slug": "men",
+    "created_at": "2021-09-10T06:26:16.130Z"
+  }
+},
+{
+  "model": "other.type",
+  "pk": 3,
+  "fields": {
+    "type": "Women",
+    "slug": "women",
+    "created_at": "2021-09-10T06:26:20.920Z"
+  }
+},
+{
+  "model": "other.type",
+  "pk": 4,
+  "fields": {
+    "type": "Kids",
+    "slug": "kids",
+    "created_at": "2021-09-10T06:26:25.184Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 1,
+  "fields": {
+    "city": "None",
+    "slug": "none",
+    "created_at": "2021-09-07T12:26:00.704Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 2,
+  "fields": {
+    "city": "Tashkent",
+    "slug": "tashkent",
+    "created_at": "2021-09-12T15:02:41.986Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 3,
+  "fields": {
+    "city": "Samarkand",
+    "slug": "samarkand",
+    "created_at": "2021-09-12T15:02:45.706Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 4,
+  "fields": {
+    "city": "Bukhara",
+    "slug": "bukhara",
+    "created_at": "2021-09-12T15:02:48.676Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 5,
+  "fields": {
+    "city": "Khiva",
+    "slug": "khiva",
+    "created_at": "2021-09-12T15:02:51.992Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 6,
+  "fields": {
+    "city": "Sirdarya",
+    "slug": "sirdarya",
+    "created_at": "2021-09-12T15:02:56.957Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 7,
+  "fields": {
+    "city": "Fergana",
+    "slug": "fergana",
+    "created_at": "2021-09-12T15:02:59.691Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 8,
+  "fields": {
+    "city": "Andijan",
+    "slug": "andijan",
+    "created_at": "2021-09-12T15:03:02.564Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 9,
+  "fields": {
+    "city": "Namangan",
+    "slug": "namangan",
+    "created_at": "2021-09-12T15:03:05.625Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 10,
+  "fields": {
+    "city": "Jizzakh",
+    "slug": "jizzakh",
+    "created_at": "2021-09-12T15:03:10.426Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 11,
+  "fields": {
+    "city": "Karshi",
+    "slug": "karshi",
+    "created_at": "2021-09-12T15:03:15.498Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 12,
+  "fields": {
+    "city": "Termez",
+    "slug": "termez",
+    "created_at": "2021-09-12T15:03:18.840Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 13,
+  "fields": {
+    "city": "Kokand",
+    "slug": "kokand",
+    "created_at": "2021-09-12T15:03:23.422Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 14,
+  "fields": {
+    "city": "Navaiy",
+    "slug": "navaiy",
+    "created_at": "2021-09-12T15:03:27.012Z"
+  }
+},
+{
+  "model": "other.city",
+  "pk": 15,
+  "fields": {
+    "city": "Nukus",
+    "slug": "nukus",
+    "created_at": "2021-09-12T15:03:30.546Z"
+  }
+},
+{
+  "model": "other.category",
+  "pk": 15,
+  "fields": {
+    "name": "Clothes",
+    "slug": "clothes",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T10:34:30.476Z"
+  }
+},
+{
+  "model": "other.category",
+  "pk": 16,
+  "fields": {
+    "name": "Shoes",
+    "slug": "shoes",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T10:34:35.320Z"
+  }
+},
+{
+  "model": "other.category",
+  "pk": 17,
+  "fields": {
+    "name": "Accessories",
+    "slug": "accessories",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T10:34:39.147Z"
+  }
+},
+{
+  "model": "other.category",
+  "pk": 18,
+  "fields": {
+    "name": "Bags",
+    "slug": "bags",
+    "description": "",
+    "order": 4,
+    "created_at": "2021-09-12T10:34:43.525Z"
+  }
+},
+{
+  "model": "other.category",
+  "pk": 19,
+  "fields": {
+    "name": "Sport",
+    "slug": "sport",
+    "description": "",
+    "order": 5,
+    "created_at": "2021-09-12T10:34:47.693Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 14,
+  "fields": {
+    "name": "Jackets",
+    "parent": 15,
+    "type": 2,
+    "slug": "jackets",
+    "description": "",
+    "order": 0,
+    "created_at": "2021-09-12T11:20:53.568Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 15,
+  "fields": {
+    "name": "Pants",
+    "parent": 15,
+    "type": 2,
+    "slug": "pants",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T11:21:35.266Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 16,
+  "fields": {
+    "name": "Jeans",
+    "parent": 15,
+    "type": 2,
+    "slug": "jeans",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T11:21:43.836Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 17,
+  "fields": {
+    "name": "Polo T-shirts",
+    "parent": 15,
+    "type": 2,
+    "slug": "polo-t-shirts",
+    "description": "",
+    "order": 4,
+    "created_at": "2021-09-12T11:22:08.554Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 18,
+  "fields": {
+    "name": "Sweatshirts",
+    "parent": 15,
+    "type": 2,
+    "slug": "sweatshirts",
+    "description": "",
+    "order": 5,
+    "created_at": "2021-09-12T11:22:21.985Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 19,
+  "fields": {
+    "name": "Sweaters & Cardigans",
+    "parent": 15,
+    "type": 2,
+    "slug": "sweaters-cardigans",
+    "description": "",
+    "order": 6,
+    "created_at": "2021-09-12T11:25:46.014Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 20,
+  "fields": {
+    "name": "T-Shirts",
+    "parent": 15,
+    "type": 2,
+    "slug": "t-shirts",
+    "description": "",
+    "order": 7,
+    "created_at": "2021-09-12T11:26:06.080Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 21,
+  "fields": {
+    "name": "Shorts",
+    "parent": 15,
+    "type": 2,
+    "slug": "shorts",
+    "description": "",
+    "order": 8,
+    "created_at": "2021-09-12T11:26:17.880Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 22,
+  "fields": {
+    "name": "Shirts",
+    "parent": 15,
+    "type": 2,
+    "slug": "shirts",
+    "description": "",
+    "order": 9,
+    "created_at": "2021-09-12T11:26:38.474Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 23,
+  "fields": {
+    "name": "Hoodies",
+    "parent": 15,
+    "type": 2,
+    "slug": "hoodies",
+    "description": "",
+    "order": 10,
+    "created_at": "2021-09-12T11:27:08.926Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 24,
+  "fields": {
+    "name": "Vests",
+    "parent": 15,
+    "type": 2,
+    "slug": "vests",
+    "description": "",
+    "order": 11,
+    "created_at": "2021-09-12T11:27:19.430Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 25,
+  "fields": {
+    "name": "Socks",
+    "parent": 15,
+    "type": 2,
+    "slug": "socks",
+    "description": "",
+    "order": 12,
+    "created_at": "2021-09-12T11:27:30.569Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 26,
+  "fields": {
+    "name": "Jackets & Coats",
+    "parent": 15,
+    "type": 2,
+    "slug": "jackets-coats",
+    "description": "",
+    "order": 13,
+    "created_at": "2021-09-12T11:27:45.398Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 27,
+  "fields": {
+    "name": "Raincoats",
+    "parent": 15,
+    "type": 2,
+    "slug": "raincoats",
+    "description": "",
+    "order": 14,
+    "created_at": "2021-09-12T11:28:15.359Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 28,
+  "fields": {
+    "name": "Uniform",
+    "parent": 15,
+    "type": 2,
+    "slug": "uniform",
+    "description": "",
+    "order": 15,
+    "created_at": "2021-09-12T11:28:38.270Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 29,
+  "fields": {
+    "name": "Costumes",
+    "parent": 15,
+    "type": 2,
+    "slug": "costumes",
+    "description": "",
+    "order": 16,
+    "created_at": "2021-09-12T11:28:52.532Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 30,
+  "fields": {
+    "name": "Sandals & Slippers",
+    "parent": 16,
+    "type": 2,
+    "slug": "sandals-slippers",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T11:29:11.948Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 31,
+  "fields": {
+    "name": "Classic",
+    "parent": 16,
+    "type": 2,
+    "slug": "classic",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T11:30:29.334Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 32,
+  "fields": {
+    "name": "Boots",
+    "parent": 16,
+    "type": 2,
+    "slug": "boots",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T11:30:43.372Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 33,
+  "fields": {
+    "name": "Sneakers",
+    "parent": 16,
+    "type": 2,
+    "slug": "sneakers",
+    "description": "",
+    "order": 4,
+    "created_at": "2021-09-12T11:31:01.591Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 34,
+  "fields": {
+    "name": "Casual shoes",
+    "parent": 16,
+    "type": 2,
+    "slug": "casual-shoes",
+    "description": "",
+    "order": 5,
+    "created_at": "2021-09-12T11:31:13.371Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 35,
+  "fields": {
+    "name": "House shoes",
+    "parent": 16,
+    "type": 2,
+    "slug": "house-shoes",
+    "description": "",
+    "order": 6,
+    "created_at": "2021-09-12T11:31:39.889Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 36,
+  "fields": {
+    "name": "Oxford",
+    "parent": 16,
+    "type": 2,
+    "slug": "oxford",
+    "description": "",
+    "order": 7,
+    "created_at": "2021-09-12T11:32:32.938Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 37,
+  "fields": {
+    "name": "Moccasins",
+    "parent": 16,
+    "type": 2,
+    "slug": "moccasins",
+    "description": "",
+    "order": 8,
+    "created_at": "2021-09-12T11:32:43.093Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 38,
+  "fields": {
+    "name": "Hats",
+    "parent": 17,
+    "type": 2,
+    "slug": "hats",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T11:32:53.755Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 39,
+  "fields": {
+    "name": "Beanie",
+    "parent": 17,
+    "type": 2,
+    "slug": "beanie",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T11:33:23.182Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 40,
+  "fields": {
+    "name": "Sets of scarf, hat, gloves",
+    "parent": 17,
+    "type": 2,
+    "slug": "sets-of-scarf-hat-gloves",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T11:33:41.057Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 41,
+  "fields": {
+    "name": "Glasses",
+    "parent": 17,
+    "type": 2,
+    "slug": "glasses",
+    "description": "",
+    "order": 4,
+    "created_at": "2021-09-12T11:34:01.998Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 42,
+  "fields": {
+    "name": "Belts",
+    "parent": 17,
+    "type": 2,
+    "slug": "belts",
+    "description": "",
+    "order": 5,
+    "created_at": "2021-09-12T11:34:10.080Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 43,
+  "fields": {
+    "name": "Caps",
+    "parent": 17,
+    "type": 2,
+    "slug": "caps",
+    "description": "",
+    "order": 6,
+    "created_at": "2021-09-12T11:34:19.576Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 44,
+  "fields": {
+    "name": "Watches",
+    "parent": 17,
+    "type": 2,
+    "slug": "watches",
+    "description": "",
+    "order": 7,
+    "created_at": "2021-09-12T11:34:33.164Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 45,
+  "fields": {
+    "name": "Wallet",
+    "parent": 17,
+    "type": 2,
+    "slug": "wallet",
+    "description": "",
+    "order": 8,
+    "created_at": "2021-09-12T11:34:37.813Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 46,
+  "fields": {
+    "name": "Ties",
+    "parent": 17,
+    "type": 2,
+    "slug": "ties",
+    "description": "",
+    "order": 9,
+    "created_at": "2021-09-12T11:34:47.495Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 47,
+  "fields": {
+    "name": "Bracelet",
+    "parent": 17,
+    "type": 2,
+    "slug": "bracelet",
+    "description": "",
+    "order": 10,
+    "created_at": "2021-09-12T11:34:56.042Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 48,
+  "fields": {
+    "name": "Winter scarves",
+    "parent": 17,
+    "type": 2,
+    "slug": "winter-scarves",
+    "description": "",
+    "order": 11,
+    "created_at": "2021-09-12T11:35:03.385Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 49,
+  "fields": {
+    "name": "Gloves",
+    "parent": 17,
+    "type": 2,
+    "slug": "gloves",
+    "description": "",
+    "order": 12,
+    "created_at": "2021-09-12T11:35:12.580Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 50,
+  "fields": {
+    "name": "Backpack",
+    "parent": 18,
+    "type": 2,
+    "slug": "backpack",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T11:35:20.117Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 51,
+  "fields": {
+    "name": "Laptop bags",
+    "parent": 18,
+    "type": 2,
+    "slug": "laptop-bags",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T11:35:41.146Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 52,
+  "fields": {
+    "name": "Handbags",
+    "parent": 18,
+    "type": 2,
+    "slug": "handbags",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T11:35:52.331Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 54,
+  "fields": {
+    "name": "Sport bags",
+    "parent": 18,
+    "type": 2,
+    "slug": "sport-bags",
+    "description": "",
+    "order": 4,
+    "created_at": "2021-09-12T11:37:28.920Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 55,
+  "fields": {
+    "name": "Travel bags",
+    "parent": 18,
+    "type": 2,
+    "slug": "travel-bags",
+    "description": "",
+    "order": 5,
+    "created_at": "2021-09-12T11:37:36.846Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 56,
+  "fields": {
+    "name": "Shoulder bags",
+    "parent": 18,
+    "type": 2,
+    "slug": "shoulder-bags",
+    "description": "",
+    "order": 6,
+    "created_at": "2021-09-12T11:37:45.688Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 57,
+  "fields": {
+    "name": "Sports uniforms",
+    "parent": 19,
+    "type": 2,
+    "slug": "sports-uniforms",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T11:37:55.639Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 58,
+  "fields": {
+    "name": "Running shoes",
+    "parent": 19,
+    "type": 2,
+    "slug": "running-shoes",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T11:38:18.309Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 59,
+  "fields": {
+    "name": "Basketball shoes",
+    "parent": 19,
+    "type": 2,
+    "slug": "basketball-shoes",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T11:38:26.121Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 60,
+  "fields": {
+    "name": "Football boots",
+    "parent": 19,
+    "type": 2,
+    "slug": "football-boots",
+    "description": "",
+    "order": 4,
+    "created_at": "2021-09-12T11:38:33.621Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 61,
+  "fields": {
+    "name": "Fitness shoes",
+    "parent": 19,
+    "type": 2,
+    "slug": "fitness-shoes",
+    "description": "",
+    "order": 5,
+    "created_at": "2021-09-12T11:38:40.764Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 62,
+  "fields": {
+    "name": "Pajamas Set",
+    "parent": 15,
+    "type": 2,
+    "slug": "pajamas-set",
+    "description": "",
+    "order": 17,
+    "created_at": "2021-09-12T11:39:04.717Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 63,
+  "fields": {
+    "name": "Underpants",
+    "parent": 15,
+    "type": 2,
+    "slug": "underpants",
+    "description": "",
+    "order": 18,
+    "created_at": "2021-09-12T11:39:14.248Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 65,
+  "fields": {
+    "name": "T-shirts",
+    "parent": 15,
+    "type": 3,
+    "slug": "t-shirts",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T11:41:03.528Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 66,
+  "fields": {
+    "name": "Dresses",
+    "parent": 15,
+    "type": 3,
+    "slug": "dresses",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T11:41:16.918Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 67,
+  "fields": {
+    "name": "Shirts",
+    "parent": 15,
+    "type": 3,
+    "slug": "shirts",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T11:41:40.551Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 68,
+  "fields": {
+    "name": "Shorts",
+    "parent": 15,
+    "type": 3,
+    "slug": "shorts",
+    "description": "",
+    "order": 4,
+    "created_at": "2021-09-12T11:41:50.131Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 69,
+  "fields": {
+    "name": "Skirts",
+    "parent": 15,
+    "type": 3,
+    "slug": "skirts",
+    "description": "",
+    "order": 5,
+    "created_at": "2021-09-12T11:41:56.628Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 70,
+  "fields": {
+    "name": "Trousers",
+    "parent": 15,
+    "type": 3,
+    "slug": "trousers",
+    "description": "",
+    "order": 6,
+    "created_at": "2021-09-12T11:42:04.329Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 71,
+  "fields": {
+    "name": "Plus size clothing",
+    "parent": 15,
+    "type": 3,
+    "slug": "plus-size-clothing",
+    "description": "",
+    "order": 7,
+    "created_at": "2021-09-12T11:42:22.309Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 72,
+  "fields": {
+    "name": "Hijab clothing",
+    "parent": 15,
+    "type": 3,
+    "slug": "hijab-clothing",
+    "description": "",
+    "order": 8,
+    "created_at": "2021-09-12T11:42:51.291Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 73,
+  "fields": {
+    "name": "Jeans",
+    "parent": 15,
+    "type": 3,
+    "slug": "jeans",
+    "description": "",
+    "order": 9,
+    "created_at": "2021-09-12T11:42:58.784Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 74,
+  "fields": {
+    "name": "Socks",
+    "parent": 15,
+    "type": 3,
+    "slug": "socks",
+    "description": "",
+    "order": 10,
+    "created_at": "2021-09-12T11:43:06.419Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 75,
+  "fields": {
+    "name": "Evening dresses",
+    "parent": 15,
+    "type": 3,
+    "slug": "evening-dresses",
+    "description": "",
+    "order": 11,
+    "created_at": "2021-09-12T11:43:13.594Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 76,
+  "fields": {
+    "name": "Sweaters & cardigans",
+    "parent": 15,
+    "type": 3,
+    "slug": "sweaters-cardigans",
+    "description": "",
+    "order": 12,
+    "created_at": "2021-09-12T11:43:25.093Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 77,
+  "fields": {
+    "name": "Jackets",
+    "parent": 15,
+    "type": 3,
+    "slug": "jackets",
+    "description": "",
+    "order": 13,
+    "created_at": "2021-09-12T11:43:45.921Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 78,
+  "fields": {
+    "name": "Overalls",
+    "parent": 15,
+    "type": 3,
+    "slug": "overalls",
+    "description": "",
+    "order": 14,
+    "created_at": "2021-09-12T11:43:55.522Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 79,
+  "fields": {
+    "name": "Capri & Bermuda",
+    "parent": 15,
+    "type": 3,
+    "slug": "capri-bermuda",
+    "description": "",
+    "order": 15,
+    "created_at": "2021-09-12T11:44:06.786Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 80,
+  "fields": {
+    "name": "Raincoats",
+    "parent": 15,
+    "type": 3,
+    "slug": "raincoats",
+    "description": "",
+    "order": 16,
+    "created_at": "2021-09-12T11:44:16.544Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 81,
+  "fields": {
+    "name": "Uniforms",
+    "parent": 15,
+    "type": 3,
+    "slug": "uniforms",
+    "description": "",
+    "order": 17,
+    "created_at": "2021-09-12T11:44:25.666Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 82,
+  "fields": {
+    "name": "Blouses & Tunics",
+    "parent": 15,
+    "type": 3,
+    "slug": "blouses-tunics",
+    "description": "",
+    "order": 18,
+    "created_at": "2021-09-12T11:44:35.253Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 83,
+  "fields": {
+    "name": "Sweatshirts",
+    "parent": 15,
+    "type": 3,
+    "slug": "sweatshirts",
+    "description": "",
+    "order": 19,
+    "created_at": "2021-09-12T11:44:43.085Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 84,
+  "fields": {
+    "name": "Coats",
+    "parent": 15,
+    "type": 3,
+    "slug": "coats",
+    "description": "",
+    "order": 20,
+    "created_at": "2021-09-12T11:44:50.212Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 85,
+  "fields": {
+    "name": "Jacket & Vest",
+    "parent": 15,
+    "type": 3,
+    "slug": "jacket-vest",
+    "description": "",
+    "order": 21,
+    "created_at": "2021-09-12T11:44:58.324Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 86,
+  "fields": {
+    "name": "Kimono",
+    "parent": 15,
+    "type": 3,
+    "slug": "kimono",
+    "description": "",
+    "order": 22,
+    "created_at": "2021-09-12T11:45:05.787Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 87,
+  "fields": {
+    "name": "Sets",
+    "parent": 15,
+    "type": 3,
+    "slug": "sets",
+    "description": "",
+    "order": 23,
+    "created_at": "2021-09-12T11:45:15.705Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 88,
+  "fields": {
+    "name": "Tank Tops & Body",
+    "parent": 15,
+    "type": 3,
+    "slug": "tank-tops-body",
+    "description": "",
+    "order": 24,
+    "created_at": "2021-09-12T11:45:24.090Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 89,
+  "fields": {
+    "name": "Beach Wear",
+    "parent": 15,
+    "type": 3,
+    "slug": "beach-wear",
+    "description": "",
+    "order": 25,
+    "created_at": "2021-09-12T11:45:33.691Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 90,
+  "fields": {
+    "name": "Polo t-shirt",
+    "parent": 15,
+    "type": 3,
+    "slug": "polo-t-shirt",
+    "description": "",
+    "order": 26,
+    "created_at": "2021-09-12T11:45:42.450Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 91,
+  "fields": {
+    "name": "Pajamas Set",
+    "parent": 15,
+    "type": 3,
+    "slug": "pajamas-set",
+    "description": "",
+    "order": 27,
+    "created_at": "2021-09-12T11:45:51.025Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 92,
+  "fields": {
+    "name": "Underpants",
+    "parent": 15,
+    "type": 3,
+    "slug": "underpants",
+    "description": "",
+    "order": 28,
+    "created_at": "2021-09-12T11:45:59.719Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 93,
+  "fields": {
+    "name": "Bras",
+    "parent": 15,
+    "type": 3,
+    "slug": "bras",
+    "description": "",
+    "order": 29,
+    "created_at": "2021-09-12T11:46:08.468Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 94,
+  "fields": {
+    "name": "Lingerie Sets",
+    "parent": 15,
+    "type": 3,
+    "slug": "lingerie-sets",
+    "description": "",
+    "order": 30,
+    "created_at": "2021-09-12T11:46:22.557Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 95,
+  "fields": {
+    "name": "Heeled shoes",
+    "parent": 16,
+    "type": 3,
+    "slug": "heeled-shoes",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T11:46:35.342Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 96,
+  "fields": {
+    "name": "Sandals & Slippers",
+    "parent": 16,
+    "type": 3,
+    "slug": "sandals-slippers",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T11:47:51.276Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 97,
+  "fields": {
+    "name": "Boots",
+    "parent": 16,
+    "type": 3,
+    "slug": "boots",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T11:48:40.079Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 98,
+  "fields": {
+    "name": "Sneakers",
+    "parent": 16,
+    "type": 3,
+    "slug": "sneakers",
+    "description": "",
+    "order": 4,
+    "created_at": "2021-09-12T11:48:50.453Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 99,
+  "fields": {
+    "name": "Casual Shoes",
+    "parent": 16,
+    "type": 3,
+    "slug": "casual-shoes",
+    "description": "",
+    "order": 5,
+    "created_at": "2021-09-12T11:49:01.288Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 100,
+  "fields": {
+    "name": "House shoes",
+    "parent": 16,
+    "type": 3,
+    "slug": "house-shoes",
+    "description": "",
+    "order": 6,
+    "created_at": "2021-09-12T11:49:08.119Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 101,
+  "fields": {
+    "name": "Watches",
+    "parent": 17,
+    "type": 3,
+    "slug": "watches",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T11:49:17.720Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 102,
+  "fields": {
+    "name": "Hats",
+    "parent": 17,
+    "type": 3,
+    "slug": "hats",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T11:49:25.008Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 103,
+  "fields": {
+    "name": "Beanies",
+    "parent": 17,
+    "type": 3,
+    "slug": "beanies",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T11:49:33.336Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 104,
+  "fields": {
+    "name": "Gloves",
+    "parent": 17,
+    "type": 3,
+    "slug": "gloves",
+    "description": "",
+    "order": 4,
+    "created_at": "2021-09-12T11:49:39.857Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 105,
+  "fields": {
+    "name": "Scarves",
+    "parent": 17,
+    "type": 3,
+    "slug": "scarves",
+    "description": "",
+    "order": 5,
+    "created_at": "2021-09-12T11:49:46.191Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 106,
+  "fields": {
+    "name": "Sets of scarf, hat, gloves",
+    "parent": 17,
+    "type": 3,
+    "slug": "sets-of-scarf-hat-gloves",
+    "description": "",
+    "order": 6,
+    "created_at": "2021-09-12T11:49:53.388Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 107,
+  "fields": {
+    "name": "Jewelry & Gems",
+    "parent": 17,
+    "type": 3,
+    "slug": "jewelry-gems",
+    "description": "",
+    "order": 7,
+    "created_at": "2021-09-12T11:50:00.038Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 108,
+  "fields": {
+    "name": "Caps",
+    "parent": 17,
+    "type": 3,
+    "slug": "caps",
+    "description": "",
+    "order": 8,
+    "created_at": "2021-09-12T11:50:06.908Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 109,
+  "fields": {
+    "name": "Belts",
+    "parent": 17,
+    "type": 3,
+    "slug": "belts",
+    "description": "",
+    "order": 9,
+    "created_at": "2021-09-12T11:50:13.334Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 110,
+  "fields": {
+    "name": "Glasses",
+    "parent": 17,
+    "type": 3,
+    "slug": "glasses",
+    "description": "",
+    "order": 10,
+    "created_at": "2021-09-12T11:50:20.507Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 111,
+  "fields": {
+    "name": "Hair accessories",
+    "parent": 17,
+    "type": 3,
+    "slug": "hair-accessories",
+    "description": "",
+    "order": 11,
+    "created_at": "2021-09-12T11:50:27.509Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 112,
+  "fields": {
+    "name": "Handbag",
+    "parent": 18,
+    "type": 3,
+    "slug": "handbag",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T11:50:38.499Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 113,
+  "fields": {
+    "name": "Waist Bags",
+    "parent": 18,
+    "type": 3,
+    "slug": "waist-bags",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T11:50:46.146Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 114,
+  "fields": {
+    "name": "Portfolio & Clutch",
+    "parent": 18,
+    "type": 3,
+    "slug": "portfolio-clutch",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T11:50:55.956Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 115,
+  "fields": {
+    "name": "Shoulder bags",
+    "parent": 18,
+    "type": 3,
+    "slug": "shoulder-bags",
+    "description": "",
+    "order": 4,
+    "created_at": "2021-09-12T11:51:09.782Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 116,
+  "fields": {
+    "name": "Sports Bag",
+    "parent": 18,
+    "type": 3,
+    "slug": "sports-bag",
+    "description": "",
+    "order": 5,
+    "created_at": "2021-09-12T11:51:16.513Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 117,
+  "fields": {
+    "name": "Backpack",
+    "parent": 18,
+    "type": 3,
+    "slug": "backpack",
+    "description": "",
+    "order": 6,
+    "created_at": "2021-09-12T11:51:30.554Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 118,
+  "fields": {
+    "name": "Purses",
+    "parent": 18,
+    "type": 3,
+    "slug": "purses",
+    "description": "",
+    "order": 7,
+    "created_at": "2021-09-12T11:51:56.495Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 119,
+  "fields": {
+    "name": "Sports uniform",
+    "parent": 19,
+    "type": 3,
+    "slug": "sports-uniform",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T11:52:11.996Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 120,
+  "fields": {
+    "name": "Body",
+    "parent": 15,
+    "type": 4,
+    "slug": "body",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T11:52:24.120Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 121,
+  "fields": {
+    "name": "Jeans",
+    "parent": 15,
+    "type": 4,
+    "slug": "jeans",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T11:52:33.636Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 122,
+  "fields": {
+    "name": "T-shirts",
+    "parent": 15,
+    "type": 4,
+    "slug": "t-shirts",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T11:52:39.985Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 123,
+  "fields": {
+    "name": "Beachwear",
+    "parent": 15,
+    "type": 4,
+    "slug": "beachwear",
+    "description": "",
+    "order": 4,
+    "created_at": "2021-09-12T11:52:50.216Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 124,
+  "fields": {
+    "name": "Shirt",
+    "parent": 15,
+    "type": 4,
+    "slug": "shirt",
+    "description": "",
+    "order": 5,
+    "created_at": "2021-09-12T11:52:58.341Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 125,
+  "fields": {
+    "name": "Dresses",
+    "parent": 15,
+    "type": 4,
+    "slug": "dresses",
+    "description": "",
+    "order": 6,
+    "created_at": "2021-09-12T11:53:05.591Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 126,
+  "fields": {
+    "name": "Sweatshirts",
+    "parent": 15,
+    "type": 4,
+    "slug": "sweatshirts",
+    "description": "",
+    "order": 7,
+    "created_at": "2021-09-12T11:53:21.092Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 127,
+  "fields": {
+    "name": "Sweaters & Cardigans",
+    "parent": 15,
+    "type": 4,
+    "slug": "sweaters-cardigans",
+    "description": "",
+    "order": 8,
+    "created_at": "2021-09-12T11:55:01.337Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 128,
+  "fields": {
+    "name": "Blouses and tunics",
+    "parent": 15,
+    "type": 4,
+    "slug": "blouses-and-tunics",
+    "description": "",
+    "order": 9,
+    "created_at": "2021-09-12T11:55:29.075Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 129,
+  "fields": {
+    "name": "Tracksuit",
+    "parent": 15,
+    "type": 4,
+    "slug": "tracksuit",
+    "description": "",
+    "order": 10,
+    "created_at": "2021-09-12T11:55:36.837Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 130,
+  "fields": {
+    "name": "Pants",
+    "parent": 15,
+    "type": 4,
+    "slug": "pants",
+    "description": "",
+    "order": 11,
+    "created_at": "2021-09-12T11:55:43.176Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 131,
+  "fields": {
+    "name": "Underwear & Pajamas",
+    "parent": 15,
+    "type": 4,
+    "slug": "underwear-pajamas",
+    "description": "",
+    "order": 12,
+    "created_at": "2021-09-12T11:55:54.656Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 132,
+  "fields": {
+    "name": "Home textiles",
+    "parent": 15,
+    "type": 4,
+    "slug": "home-textiles",
+    "description": "",
+    "order": 13,
+    "created_at": "2021-09-12T11:56:02.170Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 133,
+  "fields": {
+    "name": "Vests",
+    "parent": 15,
+    "type": 4,
+    "slug": "vests",
+    "description": "",
+    "order": 14,
+    "created_at": "2021-09-12T11:56:09.504Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 134,
+  "fields": {
+    "name": "Overalls",
+    "parent": 15,
+    "type": 4,
+    "slug": "overalls",
+    "description": "",
+    "order": 15,
+    "created_at": "2021-09-12T11:56:17.995Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 135,
+  "fields": {
+    "name": "Gloves",
+    "parent": 15,
+    "type": 4,
+    "slug": "gloves",
+    "description": "",
+    "order": 16,
+    "created_at": "2021-09-12T11:56:24.906Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 136,
+  "fields": {
+    "name": "Socks",
+    "parent": 15,
+    "type": 4,
+    "slug": "socks",
+    "description": "",
+    "order": 17,
+    "created_at": "2021-09-12T11:56:31.417Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 137,
+  "fields": {
+    "name": "Jackets",
+    "parent": 15,
+    "type": 4,
+    "slug": "jackets",
+    "description": "",
+    "order": 18,
+    "created_at": "2021-09-12T11:56:37.102Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 138,
+  "fields": {
+    "name": "Baby Sets",
+    "parent": 15,
+    "type": 4,
+    "slug": "baby-sets",
+    "description": "",
+    "order": 19,
+    "created_at": "2021-09-12T11:56:51.017Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 139,
+  "fields": {
+    "name": "Shorts",
+    "parent": 15,
+    "type": 4,
+    "slug": "shorts",
+    "description": "",
+    "order": 20,
+    "created_at": "2021-09-12T11:58:02.536Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 140,
+  "fields": {
+    "name": "Skirts",
+    "parent": 15,
+    "type": 4,
+    "slug": "skirts",
+    "description": "",
+    "order": 21,
+    "created_at": "2021-09-12T11:58:09.507Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 141,
+  "fields": {
+    "name": "Sandals & Slippers",
+    "parent": 16,
+    "type": 4,
+    "slug": "sandals-slippers",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T11:58:20.280Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 142,
+  "fields": {
+    "name": "Casual Shoes",
+    "parent": 16,
+    "type": 4,
+    "slug": "casual-shoes",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T11:58:44.448Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 143,
+  "fields": {
+    "name": "Sneakers",
+    "parent": 16,
+    "type": 4,
+    "slug": "sneakers",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T11:58:54.001Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 144,
+  "fields": {
+    "name": "Boots",
+    "parent": 16,
+    "type": 4,
+    "slug": "boots",
+    "description": "",
+    "order": 4,
+    "created_at": "2021-09-12T11:59:01.532Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 145,
+  "fields": {
+    "name": "Scarf",
+    "parent": 17,
+    "type": 4,
+    "slug": "scarf",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T11:59:11.186Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 146,
+  "fields": {
+    "name": "Caps",
+    "parent": 17,
+    "type": 4,
+    "slug": "caps",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T11:59:19.880Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 147,
+  "fields": {
+    "name": "Child bag",
+    "parent": 18,
+    "type": 4,
+    "slug": "child-bag",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T11:59:49.210Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 148,
+  "fields": {
+    "name": "Backpack",
+    "parent": 18,
+    "type": 4,
+    "slug": "backpack",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T11:59:56.083Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 149,
+  "fields": {
+    "name": "Waist bags",
+    "parent": 18,
+    "type": 4,
+    "slug": "waist-bags",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T12:00:09.181Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 150,
+  "fields": {
+    "name": "Hats",
+    "parent": 17,
+    "type": 1,
+    "slug": "hats",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T12:07:27.886Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 151,
+  "fields": {
+    "name": "Sets of scarf, hat, gloves",
+    "parent": 17,
+    "type": 1,
+    "slug": "sets-of-scarf-hat-gloves",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T12:07:38.832Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 152,
+  "fields": {
+    "name": "Glasses",
+    "parent": 17,
+    "type": 1,
+    "slug": "glasses",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T12:07:48.037Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 153,
+  "fields": {
+    "name": "Caps",
+    "parent": 17,
+    "type": 1,
+    "slug": "caps",
+    "description": "",
+    "order": 4,
+    "created_at": "2021-09-12T12:07:57.657Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 154,
+  "fields": {
+    "name": "Bracelet",
+    "parent": 17,
+    "type": 1,
+    "slug": "bracelet",
+    "description": "",
+    "order": 5,
+    "created_at": "2021-09-12T12:08:09.077Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 155,
+  "fields": {
+    "name": "Backpack",
+    "parent": 18,
+    "type": 1,
+    "slug": "backpack",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T12:08:16.194Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 156,
+  "fields": {
+    "name": "Laptop bags",
+    "parent": 18,
+    "type": 1,
+    "slug": "laptop-bags",
+    "description": "",
+    "order": 2,
+    "created_at": "2021-09-12T12:08:24.834Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 157,
+  "fields": {
+    "name": "Sport bags",
+    "parent": 18,
+    "type": 1,
+    "slug": "sport-bags",
+    "description": "",
+    "order": 3,
+    "created_at": "2021-09-12T12:08:38.132Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 158,
+  "fields": {
+    "name": "Travel bags",
+    "parent": 18,
+    "type": 1,
+    "slug": "travel-bags",
+    "description": "",
+    "order": 4,
+    "created_at": "2021-09-12T12:08:48.678Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 159,
+  "fields": {
+    "name": "Shoulder bags",
+    "parent": 18,
+    "type": 1,
+    "slug": "shoulder-bags",
+    "description": "",
+    "order": 5,
+    "created_at": "2021-09-12T12:08:55.150Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 160,
+  "fields": {
+    "name": "Big size clothes",
+    "parent": 15,
+    "type": 2,
+    "slug": "big-size-clothes",
+    "description": "",
+    "order": 1,
+    "created_at": "2021-09-12T13:52:45.268Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 161,
+  "fields": {
+    "name": "Deuces",
+    "parent": 15,
+    "type": 2,
+    "slug": "deuces",
+    "description": "",
+    "order": 19,
+    "created_at": "2021-09-20T10:37:51.698Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 162,
+  "fields": {
+    "name": "Triplets",
+    "parent": 15,
+    "type": 2,
+    "slug": "triplets",
+    "description": "",
+    "order": 20,
+    "created_at": "2021-09-20T10:38:27.039Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 163,
+  "fields": {
+    "name": "Triplets",
+    "parent": 15,
+    "type": 3,
+    "slug": "triplets",
+    "description": "",
+    "order": 31,
+    "created_at": "2021-09-20T10:43:43.742Z"
+  }
+},
+{
+  "model": "other.subcategory",
+  "pk": 164,
+  "fields": {
+    "name": "Deuces",
+    "parent": 15,
+    "type": 3,
+    "slug": "deuces",
+    "description": "",
+    "order": 32,
+    "created_at": "2021-09-20T10:43:58.932Z"
+  }
+},
+{
+  "model": "other.color",
+  "pk": 4,
+  "fields": {
+    "name": "black",
+    "created_at": "2021-09-12T15:04:00.877Z"
+  }
+},
+{
+  "model": "other.color",
+  "pk": 5,
+  "fields": {
+    "name": "blue",
+    "created_at": "2021-09-12T15:04:17.706Z"
+  }
+},
+{
+  "model": "other.color",
+  "pk": 6,
+  "fields": {
+    "name": "aqua",
+    "created_at": "2021-09-12T15:04:21.792Z"
+  }
+},
+{
+  "model": "other.color",
+  "pk": 7,
+  "fields": {
+    "name": "white",
+    "created_at": "2021-09-12T15:04:25.752Z"
+  }
+},
+{
+  "model": "other.color",
+  "pk": 8,
+  "fields": {
+    "name": "green",
+    "created_at": "2021-09-12T15:04:29.917Z"
+  }
+},
+{
+  "model": "other.color",
+  "pk": 9,
+  "fields": {
+    "name": "red",
+    "created_at": "2021-09-12T15:04:33.056Z"
+  }
+},
+{
+  "model": "other.color",
+  "pk": 10,
+  "fields": {
+    "name": "yellow",
+    "created_at": "2021-09-12T15:04:37.523Z"
+  }
+},
+{
+  "model": "other.color",
+  "pk": 11,
+  "fields": {
+    "name": "orange",
+    "created_at": "2021-09-12T15:04:41.346Z"
+  }
+},
+{
+  "model": "other.color",
+  "pk": 12,
+  "fields": {
+    "name": "brown",
+    "created_at": "2021-09-12T15:04:44.738Z"
+  }
+},
+{
+  "model": "other.color",
+  "pk": 13,
+  "fields": {
+    "name": "pink",
+    "created_at": "2021-09-12T15:04:48.111Z"
+  }
+},
+{
+  "model": "other.color",
+  "pk": 14,
+  "fields": {
+    "name": "purple",
+    "created_at": "2021-09-12T15:04:52.360Z"
+  }
+},
+{
+  "model": "other.color",
+  "pk": 15,
+  "fields": {
+    "name": "grey",
+    "created_at": "2021-09-12T15:04:56.594Z"
+  }
+}
+]

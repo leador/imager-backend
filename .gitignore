@@ -1,0 +1,10 @@
+db.sqlite3
+dump.rdb
+/.vscode
+/.idea
+/venv
+/staticfiles
+*.env
+*.pyc
+*/__pycache__
+**/cache
