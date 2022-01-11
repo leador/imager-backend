@@ -1,6 +1,6 @@
 # [imager](https://www.imager.uz/) - Modern Shopping
 
-**imager** is a modern ecommerce & social network platform that helps users to find the most matching products. Users can follow their favourite brands and to be aware of friends' actions.
+**imager** is a modern ecommerce & social network platform that helps users to find the most matching products. Users can follow their favourite brands and to be aware of friends' actions. If you have selling products you can also enroll like a brand and sell your products without fee.
 
 ## Backend Used Technologies ![python version](https://img.shields.io/badge/python-3.8.10-informational) ![django version](https://img.shields.io/badge/django-3.2.5-success) ![drf version](https://img.shields.io/badge/DRF-3.12.4-important)
 
